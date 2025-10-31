@@ -12,8 +12,3 @@ A Java-based system implementing DFS, BFS, and Dijkstra’s algorithm for graph 
 - Java
 - Object-Oriented Programming
 - Data Structures and Algorithms
-
-## How to Run
-1. Clone the repository: `git clone https://github.com/jocelynhou06/graph-pathfinding.git`
-2. Open the project in IntelliJ IDEA
-3. Run the main class `Main.java`
